@@ -1,4 +1,4 @@
-# Global YouTube Statistics 2023
+# Advanced-Statistical-Analysis-and-Visual-Exploration-of-Global-Youtube-Trends
 
 **Author**: Sravani Neelapala
 **Date**: September 5, 2023
