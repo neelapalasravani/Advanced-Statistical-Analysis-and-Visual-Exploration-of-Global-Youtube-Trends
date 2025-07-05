@@ -1,6 +1,6 @@
 # Advanced-Statistical-Analysis-and-Visual-Exploration-of-Global-Youtube-Trends
 
-**Author**: Sravani Neelapala
+**Name**: Sravani Neelapala
 **Date**: September 5, 2023
 
 ---
